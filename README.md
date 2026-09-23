@@ -9,3 +9,9 @@ Hello, I am Alfa G Nadaf, a B.Tech Artificial Intelligence and Data Science stud
 - HTML & CSS
 - SQL
 - Git & GitHub
+## Interests
+
+- Software Development
+- Artificial Intelligence
+- Data Science
+- Machine Learning
